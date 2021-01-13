@@ -8,12 +8,15 @@ Tabela de conteúdos
  
 ## Sobre
 
-Implementação de uma Rest API de rodem de Serviços.
+Implementação de uma Rest API de ordem de Serviços.
 
 ## Tecnologias
 Neste projeto está sendo utilizado:
  -  Java;
  -  Spring;
+ -  MySQLServer;
+ - Flyway;
+ - Spring Data JPA.
 
 ## Autor
 Desenvolvido por João Lucas da Silva.
